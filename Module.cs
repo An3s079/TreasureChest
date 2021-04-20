@@ -15,7 +15,6 @@ namespace An3sGunJam
         public static string ZipFilePath;
         public static string FilePath;
         public static List<string> items = new List<string>();
-        public static Mesh skullMesh;
 
         public override void Start()
         {
